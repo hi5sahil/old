@@ -4,4 +4,4 @@ title: First post!
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+Hi everyone! Hope to get to the bottom of it with evidence from data!!
