@@ -4,7 +4,7 @@ title: Football History Time Lapse
 subtitle: using gganimate
 ---
 
-How the beautiful game of football propogated throughout the world?
+How did the beautiful game of football propogated throughout the world?
 
 I am a bit of 'Sleepless in Seattle' on Saturday morning and really excited for the world cup which is going to kick-off next week on June 14th.
 
