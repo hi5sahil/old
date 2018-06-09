@@ -26,5 +26,4 @@ head(df)
 |1873-03-08|England|Scotland|4|2|Friendly|London|England|FALSE|
 
 
-
- ![Alt Text](https://github.com/hi5sahil/hi5sahil.github.io/upload/master/_posts/football_history_timelapse.gif)
+<img src="https://github.com/hi5sahil/hi5sahil.github.io/upload/master/_posts/football_history_timelapse.gif" width="800" height="600" />
