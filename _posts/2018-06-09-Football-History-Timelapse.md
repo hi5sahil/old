@@ -2,6 +2,7 @@
 layout: post
 title: Football History Time Lapse
 subtitle: using gganimate
+image: /img/football_history.PNG
 ---
 
 How the beautiful game of football propogated throughout the world?
