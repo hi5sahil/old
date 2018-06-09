@@ -6,7 +6,7 @@ subtitle: using gganimate
 
 How the beautiful game of football propogated throughout the world?
 
-So, I am a bit of 'Sleepless in Seattle' on Saturday morning and really excited for the world cup which is going to kick-off next week on June 14th.
+I am a bit of 'Sleepless in Seattle' on Saturday morning and really excited for the world cup which is going to kick-off next week on June 14th.
 
 To get in the mood for the upcoming month, I found myself a dataset with all the international football matches ever played since the 1872 friendly between England vs Scotland which was held in Glasgow.
 
