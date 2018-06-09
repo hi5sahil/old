@@ -1,4 +1,10 @@
-Football History Time Lapse using gganimate
+---
+layout: post
+title: Football History Time Lapse
+using gganimate
+image: /img/hello_world.jpeg
+---
+
 
 ```r
 library(ggplot2)
