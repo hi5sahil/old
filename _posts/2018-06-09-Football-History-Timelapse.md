@@ -8,11 +8,11 @@ How did the beautiful game of football propogate throughout the world?
 
 I am a bit of 'Sleepless in Seattle' on Saturday morning and really excited for the World Cup which is going to kick-off next week on June 14th.
 
-To get in the mood for the upcoming month, I found myself a dataset with all the international football matches ever played since the 1872 friendly between England vs Scotland which was held in Glasgow. Subsequently, I created a geo plot which highlights all nations which played any international football with size of circle corresponding to count of matches for the year. The circles become darker as years go by because they are retained over frames to give a cumulative summary. Thereby, giving us a sense of how the game became popular across the world!
+To get in the mood for the upcoming month, I found myself a dataset with all the international football matches ever played since the 1872 friendly between England vs Scotland which was held in Glasgow. Subsequently, I created a geo plot gif which highlights all nations which played any international football with size of circle corresponding to count of matches for the frame i.e. year. The circles become darker as years go by because they are retained over frames to give a cumulative summary. Thereby, giving us a sense of how the game became popular across the world!
 
 <a href="https://imgur.com/RK2tH5B"><img src="https://i.imgur.com/RK2tH5B.gif" title="source: imgur.com" /></a>
 
-Football has its origins in England from where it got spread to the rest of Europe, then South America followed by Africa and finally Asia. Bear in mind above animation only accounts for count of matches and not the quality or FIFA ranking.
+Football has its origins in the 1870s England from where it got spread to the rest of Europe, then in South America during the early 1900s followed by Africa around the 1940s and finally Asia in the 1960s. Bear in mind above animation only accounts for count of matches and not the quality or FIFA ranking.
 
 Interestingly, India did not play its first match till 1938 friendly against Australia at away where it lost 5-3 while Indian players were playing bare feet. The legend it seems is true!
 
@@ -26,7 +26,7 @@ Interestingly, India did not play its first match till 1938 friendly against Aus
 
 
 
-HERE IS THE CODE FOR CREATING ABOVE ANIMATION
+HERE IS THE CODE FOR CREATING ABOVE ANIMATION:
 
 
 Importing required libraries
