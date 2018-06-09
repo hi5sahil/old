@@ -15,7 +15,9 @@ In the below geo plot, count of matches corresponds to size of circle which beco
 <a href="https://imgur.com/RK2tH5B"><img src="https://i.imgur.com/RK2tH5B.gif" title="source: imgur.com" /></a>
 
 
-BELOW IS THE CODE
+HERE IS THE CODE FOR CREATING ABOVE ANIMATION
+
+
 Importing required libraries
 ```r
 library(ggplot2)
