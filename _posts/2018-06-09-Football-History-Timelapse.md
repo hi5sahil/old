@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Football History Time Lapse
-using gganimate
+subtitle: using gganimate
 image: football_history.png
 ---
 
