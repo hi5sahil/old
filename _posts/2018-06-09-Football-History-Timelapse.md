@@ -100,7 +100,7 @@ map <- world +
              colour = 'purple', alpha = .5) +
   scale_size_continuous(range = c(1, 8), 
                         breaks = c(250, 500, 750, 1000)) +
-  labs(size = 'Followers')
+  labs(size = 'matches')
 map
 
 ggplotly(map)
