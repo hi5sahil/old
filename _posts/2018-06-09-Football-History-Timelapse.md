@@ -1,0 +1,14 @@
+```r
+library(ggplot2)
+library(dplyr)
+library(DT)
+library(maps)
+library(ggthemes)
+library(plotly)
+library(tibble)
+library(lubridate)
+library(gganimate)
+library(readr)
+library(ggmap)
+library(animation)
+```
