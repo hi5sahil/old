@@ -14,14 +14,15 @@ In the below geo plot, count of matches corresponds to size of circle which beco
 
 <a href="https://imgur.com/RK2tH5B"><img src="https://i.imgur.com/RK2tH5B.gif" title="source: imgur.com" /></a>
 
-Football has its origins in England from where it got spread to rest of Europe, then South America followed by Africa and finally Asia
-Interestingly, India did not played its first match till 1938 friendly away against Australia where it lost 5-3 while Indian players were playing bare feet. Yeps, the legend is true!
+Football has its origins in England from where it got spread to the rest of Europe, then South America followed by Africa and finally Asia. Bear in mind above animation only accounts for count of matches and not the quality or FIFA ranking.
+
+Interestingly, India did not play its first match till 1938 friendly against Australia at away where it lost 5-3 while Indian players were playing bare feet. Yep, the legend is true!
 
 <iframe width="700" height="315" src="https://www.youtube.com/embed/Iuzkq-VDJrE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
-PS - Bear in mind above animation only accounts for count of matches and not the quality or FIFA ranking
+
 
 
 
