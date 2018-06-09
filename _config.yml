@@ -129,7 +129,7 @@ url-pretty: "hi5sahil.github.io/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: hi5sahil
+# disqus: hi5sahil
 
 # Facebook App ID
 # fb_app_id: ""
