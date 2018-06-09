@@ -34,7 +34,7 @@ library(ggmap)
 library(animation)
 ```
 
-Below is what the data looks like
+Glancing at the dataset
 ```r
 head(df)
 ```
