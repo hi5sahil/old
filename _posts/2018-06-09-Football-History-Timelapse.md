@@ -27,4 +27,4 @@ head(df)
 
 
 
- ![How the game propogated?](https://github.com/hi5sahil/hi5sahil.github.io/upload/master/_posts/football_history_timelapse.gif)
+ ![Alt Text](https://github.com/hi5sahil/hi5sahil.github.io/upload/master/_posts/football_history_timelapse.gif)
