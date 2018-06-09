@@ -78,7 +78,7 @@ social-network-links:
   github: hi5sahil
   linkedin: sahilgupta1991
   instagram: hi5sahil
-  my other blog: https://inside18yard.wordpress.com/
+  url: https://inside18yard.wordpress.com/
   
 #  twitter: daattali  
 #  reddit: yourname
@@ -103,7 +103,7 @@ share-links-active:
   rss: false
   email: true
   instagram: true
-  my other blog: true
+  url: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
