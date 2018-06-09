@@ -25,4 +25,6 @@ head(df)
 |1872-11-30|Scotland|England|0|0|Friendly|Glasgow|Scotland|FALSE|
 |1873-03-08|England|Scotland|4|2|Friendly|London|England|FALSE|
 
- ![](https://github.com/hi5sahil/hi5sahil.github.io/upload/master/_posts/football_history_timelapse.gif)
+
+
+ ![How the game propogated?](https://github.com/hi5sahil/hi5sahil.github.io/upload/master/_posts/football_history_timelapse.gif)
