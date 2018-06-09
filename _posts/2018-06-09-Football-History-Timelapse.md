@@ -74,8 +74,9 @@ for (i in 1:nrow(map_data)){
 
 head(map_data)
 ```
+
 Static map
-```{r warning=FALSE}
+```r
 world <- ggplot() +
   borders("world", colour = "gray85", fill = "gray80") +
   theme_map() 
