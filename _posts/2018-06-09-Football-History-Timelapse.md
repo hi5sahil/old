@@ -30,4 +30,4 @@ head(df)
 |1872-11-30|Scotland|England|0|0|Friendly|Glasgow|Scotland|FALSE|
 |1873-03-08|England|Scotland|4|2|Friendly|London|England|FALSE|
 
-![how the game propogated?](football_history_timelapse.gif "how the game propogated?")
+<img src="football_history_timelapse.gif" width="400" height="300" />
