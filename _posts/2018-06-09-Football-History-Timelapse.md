@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Football History Time Lapse
 subtitle: using gganimate
 ---
